@@ -1,0 +1,19 @@
+.slider-container {
+  position: relative;
+  display: inline-block;
+  width: 200px;
+}
+
+.slider {
+  width: 100%;
+}
+
+.default-value {
+  position: absolute;
+  top: 50%;
+  width: 2px;
+  height: 10px;
+  background-color: black;
+  transform: translateY(-50%);
+  pointer-events: none;
+}

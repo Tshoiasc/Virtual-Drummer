@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77.28mm" height="127.84mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.0" viewBox="0 0 8639 14292">
+ <defs>
+  <style type="text/css">
+    .fil2 {fill:url(#a)}
+    .fil1 {fill:url(#b)}
+    .fil3 {fill:url(#o)}
+    .fil0 {fill:url(#p)}
+    .fil9 {fill:url(#q)}
+    .fil5 {fill:url(#r)}
+    .fil11 {fill:url(#s)}
+    .fil7 {fill:url(#t)}
+    .fil4 {fill:url(#u)}
+    .fil8 {fill:url(#v)}
+    .fil6 {fill:url(#m)}
+    .fil10 {fill:url(#n)}
+  </style>
+  <linearGradient id="a" y1="50%" y2="50%">
+   <stop stop-color="#2B2A29" offset="0"/>
+   <stop stop-color="#B2B3B3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="573.7" x2="8065.5" y1="7145.9" y2="7145.9" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#434242" offset="0"/>
+   <stop stop-color="#5B5B5B" offset="1"/>
+  </linearGradient>
+  <linearGradient id="o" x1="100%" x2="0%" y1="50%" y2="50%" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="p" x1="8596.7" x2="42.48" y1="6849.2" y2="7442.5" gradientUnits="userSpaceOnUse" xlink:href="#b">
+  </linearGradient>
+  <linearGradient id="q" x1="5378" x2="3261.1" y1="8753.6" y2="11545" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="r" x1="5378" x2="3261.1" y1="2746.6" y2="5538.2" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="s" x1="5212.4" x2="3426.8" y1="8972" y2="11327" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="t" x1="5212.4" x2="3426.8" y1="2965.1" y2="5319.7" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="u" x1="3153.9" x2="5485.3" y1="5679.6" y2="2605.2" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="v" x1="3153.9" x2="5485.3" y1="11686" y2="8612.2" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="m" x1="3336.4" x2="5302.8" y1="5439" y2="2845.8" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="n" x1="3336.4" x2="5302.8" y1="11446" y2="8852.8" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+ </defs>
+   <rect class="fil0" width="8639" height="14292"/>
+   <rect class="fil1" x="574" y="515" width="7492" height="13262"/>
+       <circle class="fil2" cx="4320" cy="4142" r="2843"/>
+       <circle class="fil3" cx="4320" cy="4142" r="2582"/>
+       <circle class="fil2" cx="4320" cy="4142" r="2398"/>
+       <circle class="fil3" cx="4320" cy="4142" r="2178"/>
+       <path class="fil4" d="m2796 2987c638-842 1838-1007 2679-368 842 638 1007 1837 368 2679-638 841-1837 1006-2679 368-841-638-1006-1838-368-2679z"/>
+       <path class="fil5" d="m2936 3093c-579 764-430 1854 334 2433 765 579 1854 430 2433-334 580-765 430-1854-334-2433-764-580-1854-430-2433 334z"/>
+       <path class="fil6" d="m3034 3168c539-710 1550-849 2260-311s849 1550 311 2260-1550 849-2260 311c-710-539-849-1550-311-2260z"/>
+       <path class="fil7" d="m3153 3257c-489 645-363 1564 282 2052 644 489 1563 363 2052-282 488-644 362-1563-282-2052-645-488-1564-362-2052 282z"/>
+       <circle class="fil2" cx="4320" cy="10149" r="2843"/>
+       <circle class="fil3" cx="4320" cy="10149" r="2582"/>
+       <circle class="fil2" cx="4320" cy="10149" r="2398"/>
+       <circle class="fil3" cx="4320" cy="10149" r="2178"/>
+       <path class="fil8" d="m2796 8994c638-842 1838-1007 2679-368 842 638 1007 1837 368 2679-638 841-1837 1006-2679 368-841-638-1006-1838-368-2679z"/>
+       <path class="fil9" d="m2936 9100c-579 764-430 1853 334 2433 765 579 1854 430 2433-334 580-765 430-1854-334-2433-764-580-1854-430-2433 334z"/>
+       <path class="fil10" d="m3034 9175c539-710 1550-849 2260-311s849 1550 311 2260-1550 849-2260 311c-710-539-849-1550-311-2260z"/>
+       <path class="fil11" d="m3153 9264c-489 645-363 1564 282 2052 644 489 1563 363 2052-282 488-644 362-1563-282-2052-645-488-1564-362-2052 282z"/>
+</svg>
