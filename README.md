@@ -1,5 +1,5 @@
-# Virtual Drummer
-
+# Virtual Drummer by Yueqianji Chen
+An course assessment for Computer music 
 Virtual Drummer is an interactive web application that allows users to play virtual drums using hand gestures. It leverages computer vision techniques and real-time audio processing to create an immersive drumming experience.
 
 
@@ -34,7 +34,7 @@ Virtual Drummer is an interactive web application that allows users to play virt
 
 2. Install the frontend dependencies:
    ```
-   cd virtual-drummer/frontend
+   cd virtual-drummer/Front-end
    npm install
    ```
 
