@@ -1,5 +1,5 @@
 # Virtual Drummer by Yueqianji Chen
-An course assessment for Computer music 
+## An course assessment for Computer music 
 Virtual Drummer is an interactive web application that allows users to play virtual drums using hand gestures. It leverages computer vision techniques and real-time audio processing to create an immersive drumming experience.
 
 
