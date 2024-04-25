@@ -54,13 +54,14 @@ Virtual Drummer is an interactive web application that allows users to play virt
 
 5. Start the backend server:
    ```
-   python server.py
+   python main.py
    ```
 
 6. Start the frontend development server:
    ```
-   cd ../frontend
+   cd ../Front-end
    npm start
+   npm run electron-dev
    ```
 
 7. Open your browser and navigate to `http://localhost:3000` to access the Virtual Drummer application.
@@ -74,15 +75,16 @@ Virtual Drummer is an interactive web application that allows users to play virt
 
 ## Folder Structure
 
-- `frontend/`: Contains the React frontend code.
+- `Front-end_new/`: Contains the React frontend code.
   - `src/`: Source code files.
-    - `components/`: Reusable components used in the application.
-    - `App.js`: Main application component.
+    - `App.tsx`: Main application component.
     - `index.js`: Entry point of the frontend application.
-- `backend/`: Contains the Python backend code.
+- `Back-end/`: Contains the Python backend code.
+  - `main.py`: Backend server script.
+  - `camera_socket.py`: use websocket connect to front-end and use opencv-python to do gesture recognition
+  - `audio_processing.py` some api about audio adress
+- `model_construct`:
   - `ModelConstruct.py`: Script for training the music genre classification model.
-  - `server.py`: Backend server script.
-  - `requirements.txt`: Backend dependencies.
   - `wav/`: Directory for storing the audio dataset.
 - `README.md`: Readme file providing an overview of the project.
 
