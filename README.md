@@ -88,7 +88,7 @@
 4. Enjoy playing the virtual drums and exploring different rhythms and patterns!
 
 ## 📂 Folder Structure
-
+```bash
 📦 virtual-drummer
  ┣ 📂 Front-end_new/
  ┃ ┣ 📂 src/
@@ -102,7 +102,7 @@
  ┃ ┣ 📜 ModelConstruct.py # Model training script for music genre classification
  ┃ ┣ 📂 wav/            # Directory for storing the audio dataset
  ┣ 📜 README.md         # Project overview
-
+```
 
 ## 🙋🏻‍♀️ Acknowledgements
 
