@@ -13,7 +13,6 @@
 ![第5页-4](https://github.com/user-attachments/assets/f649c23f-e614-4613-9df3-ebc6c6a7f00d)
 
 
-![image](https://github.com/Tshoiasc/Visual-Drummer/assets/30382941/a1258bca-0eba-4143-a8e0-3cb7556623d8)
 
 ---
 
